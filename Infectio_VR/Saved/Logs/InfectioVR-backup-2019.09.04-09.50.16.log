@@ -1,0 +1,1249 @@
+﻿Log file open, 09/04/19 17:22:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfectioVR
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270132
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=SmellyChinChin -epicuserid=f68f10e4efd846148b161108c5a4ad85 -epiclocale=en-US
+LogInit: Base Directory: D:/Unreal Engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:946][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.04-09.22.50:953][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.04-09.22.50:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.04-09.22.50:954][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.04-09.22.50:954][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.04-09.22.50:995][  0]LogHAL: Display: Platform has ~ 8 GB [8527278080 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.04-09.22.50:995][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.04-09.22.50:995][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.04-09.22.50:995][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Scalability.ini]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.04-09.22.50:996][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Config/Windows/Engine.ini]
+[2019.09.04-09.22.50:996][  0]LogInit: Computer: DESKTOP-898RK9L
+[2019.09.04-09.22.50:996][  0]LogInit: User: Healomic
+[2019.09.04-09.22.50:996][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.04-09.22.50:996][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2019.09.04-09.22.50:996][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.09.04-09.22.50:996][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.04-09.22.50:996][  0]LogMemory: Process Physical Memory: 99.10 MB used, 99.10 MB peak
+[2019.09.04-09.22.50:996][  0]LogMemory: Process Virtual Memory: 94.01 MB used, 94.01 MB peak
+[2019.09.04-09.22.50:996][  0]LogMemory: Physical Memory: 6158.68 MB used,  1973.57 MB free, 8132.25 MB total
+[2019.09.04-09.22.50:996][  0]LogMemory: Virtual Memory: 4675.29 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.09.04-09.22.51:018][  0]LogInit: Using OS detected language (en-US).
+[2019.09.04-09.22.51:018][  0]LogInit: Using OS detected locale (en-MY).
+[2019.09.04-09.22.51:019][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.04-09.22.51:189][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.04-09.22.51:207][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.04-09.22.51:207][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.04-09.22.51:385][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.04-09.22.51:385][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.04-09.22.51:455][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.09.04-09.22.51:455][  0]LogD3D11RHI:       2988/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.04-09.22.51:457][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.04-09.22.51:457][  0]LogD3D11RHI:       0/0/4066 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.04-09.22.51:457][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.04-09.22.51:463][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.04-09.22.51:463][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.04-09.22.51:464][  0]LogWindows: EnumDisplayDevices:
+[2019.09.04-09.22.51:464][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.09.04-09.22.51:464][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2019.09.04-09.22.51:464][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.04-09.22.51:464][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.09.04-09.22.51:464][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.04-09.22.51:464][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.09.04-09.22.51:464][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.09.04-09.22.51:464][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.09.04-09.22.51:464][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.09.04-09.22.51:509][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.04-09.22.51:517][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.04-09.22.51:518][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.04-09.22.51:518][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.04-09.22.51:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.04-09.22.51:902][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.04-09.22.51:915][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.04-09.22.51:927][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.04-09.22.51:941][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.04-09.22.51:954][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.04-09.22.51:967][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.04-09.22.51:980][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.04-09.22.51:994][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.04-09.22.52:000][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.04-09.22.52:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.04-09.22.52:085][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.04-09.22.52:128][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.04-09.22.52:128][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.04-09.22.52:155][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.04-09.22.52:155][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.04-09.22.52:170][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.04-09.22.52:180][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.04-09.22.52:193][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.04-09.22.52:206][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.04-09.22.52:250][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.04-09.22.52:250][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.04-09.22.52:250][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.04-09.22.52:257][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.04-09.22.52:300][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Intermediate/Shaders/WorkingDirectory/3736/).
+[2019.09.04-09.22.52:300][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/arvin/AppData/Local/Temp/UnrealShaderWorkingDir/0A4995684BD0713303A37894597E981D/'.
+[2019.09.04-09.22.52:303][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.04-09.22.52:303][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.04-09.22.52:303][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.04-09.22.52:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.04-09.22.52:940][  0]LogDerivedDataCache: Loaded boot cache 0.10s 86MB C:/Users/arvin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.04-09.22.52:940][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/arvin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.04-09.22.52:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.04-09.22.52:941][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.04-09.22.52:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.04-09.22.52:941][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.04-09.22.52:953][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.04-09.22.52:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.04-09.22.52:954][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.04-09.22.52:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/arvin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.04-09.22.52:966][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.04-09.22.52:966][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.04-09.22.52:993][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.04-09.22.52:994][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.04-09.22.52:995][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.04-09.22.53:079][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2019.09.04-09.22.53:388][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.04-09.22.53:520][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.04-09.22.53:520][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.04-09.22.53:520][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.04-09.22.53:520][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.04-09.22.53:520][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.04-09.22.53:532][  0]LogNetVersion: InfectioVR 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 820661487)
+[2019.09.04-09.22.54:160][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.156194 seconds
+[2019.09.04-09.22.54:168][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.04-09.22.54:168][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.04-09.22.54:168][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.04-09.22.55:443][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.09.04-09.22.55:619][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.04-09.22.55:632][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.04-09.22.55:773][  0]SourceControl: Source control is disabled
+[2019.09.04-09.22.55:773][  0]SourceControl: Source control is disabled
+[2019.09.04-09.22.55:774][  0]SourceControl: Source control is disabled
+[2019.09.04-09.22.55:775][  0]SourceControl: Source control is disabled
+[2019.09.04-09.22.55:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.04-09.22.55:969][  0]LogOcInput: OculusInput pre-init called
+[2019.09.04-09.22.57:778][  0]LogEngine: Initializing Engine...
+[2019.09.04-09.22.57:808][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.04-09.22.57:810][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.04-09.22.58:047][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.04-09.22.58:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.04-09.22.58:149][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.04-09.22.58:159][  0]LogInit: FAudioDevice initialized.
+[2019.09.04-09.22.58:160][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.04-09.22.58:310][  0]LogDerivedDataCache: Saved boot cache 0.15s 86MB C:/Users/arvin/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.04-09.22.58:325][  0]LogInit: Texture streaming: Enabled
+[2019.09.04-09.22.58:344][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.04-09.22.58:373][  0]LogInit: Transaction tracking system initialized
+[2019.09.04-09.22.58:394][  0]BlueprintLog: New page: Editor Load
+[2019.09.04-09.22.58:458][  0]LocalizationService: Localization service is disabled
+[2019.09.04-09.22.58:919][  0]LogFileCache: Scanning file cache for directory 'D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/' took 0.02s
+[2019.09.04-09.22.58:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.04-09.22.58:919][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.04-09.22.59:395][  0]SourceControl: Source control is disabled
+[2019.09.04-09.22.59:701][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.04-09.23.04:293][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.09.04-09.23.04:294][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.04-09.23.04:336][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.04-09.23.07:929][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.09.04-09.23.07:930][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.04-09.23.07:996][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.04-09.23.07:996][  0]Cmd: MAP LOAD FILE="../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.04-09.23.07:997][  0]LightingResults: New page: Lighting Build
+[2019.09.04-09.23.08:001][  0]MapCheck: New page: Map Check
+[2019.09.04-09.23.08:001][  0]LightingResults: New page: Lighting Build
+[2019.09.04-09.23.08:032][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.09.04-09.23.08:706][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.09.04-09.23.08:972][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.09.04-09.23.08:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.04-09.23.09:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.09.04-09.23.09:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.04-09.23.09:010][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
+[2019.09.04-09.23.09:011][  0]LogFileHelpers: Loading map 'StartupMap' took 1.015
+[2019.09.04-09.23.09:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-09.23.09:404][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-09.23.09:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-09.23.09:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.04-09.23.09:456][  0]LogCollectionManager: Loaded 0 collections in 0.000942 seconds
+[2019.09.04-09.23.09:562][  0]LogFileCache: Scanning file cache for directory 'D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Collections/' took 0.01s
+[2019.09.04-09.23.09:562][  0]LogFileCache: Scanning file cache for directory 'D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Developers/Healomic/Collections/' took 0.00s
+[2019.09.04-09.23.09:562][  0]LogFileCache: Scanning file cache for directory 'D:/Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Collections/' took 0.00s
+[2019.09.04-09.23.09:562][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.09.04-09.23.09:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2746 classes and 665 folders.
+[2019.09.04-09.23.09:624][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.04-09.23.09:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:798][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.09:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.04-09.23.10:314][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.04-09.23.10:356][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.04-09.23.10:676][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.04-09.23.10:765][  0]LogSlate: Took 0.066528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.04-09.23.11:029][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.09.04-09.23.11:242][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.04-09.23.11:346][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.09.04-09.23.11:379][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.04-09.23.11:379][  0]LogLoad: (Engine Initialization) Total time: 23.16 seconds
+[2019.09.04-09.23.11:379][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.04-09.23.11:390][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.23.11:418][  0]LogAssetRegistry: Asset discovery search completed in 18.3621 seconds
+[2019.09.04-09.23.11:420][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.04-09.23.11:420][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.09.04-09.23.11:462][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.04-09.23.11:525][  0]LogSlate: Took 0.013482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.04-09.23.11:530][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.09.04-09.23.14:019][280]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.04-09.23.14:019][280]Can't find target actor or component.
+[2019.09.04-09.23.14:611][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToiletWall_Base)
+[2019.09.04-09.23.14:929][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.09.04-09.23.18:276][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_Door)
+[2019.09.04-09.24.27:478][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.24.36:381][ 13]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.04-09.24.36:396][ 13]LogAssetTools: Warning: Failed to import 'D:\3D Model\Library\Substance\metal_bumpy_squares/metal_bumpy_squares.sbs'. Unknown extension 'sbs'.
+[2019.09.04-09.24.36:413][ 13]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\3D Model\Library\Substance\metal_bumpy_squares/metal_bumpy_squares.sbsar)
+[2019.09.04-09.24.42:913][ 13]LogSlate: Window 'Substance Import Options' being destroyed
+[2019.09.04-09.24.43:129][ 13]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.24.43:231][ 13]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3D Model\Library\Substance\metal_bumpy_squares/resources/metal_bumpy_squares_basecolor.png)
+[2019.09.04-09.24.43:482][ 13]LogTexture: Display: Building textures: metal_bumpy_squares_basecolor (AutoDXT, 2048X2048)
+[2019.09.04-09.24.45:515][ 13]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3D Model\Library\Substance\metal_bumpy_squares/resources/metal_bumpy_squares_height.png)
+[2019.09.04-09.24.45:532][ 13]LogTexture: Display: Building textures: metal_bumpy_squares_height (AutoDXT, 2048X2048)
+[2019.09.04-09.24.45:760][ 13]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\3D Model\Library\Substance\metal_bumpy_squares/resources/metal_bumpy_squares_roughness.png)
+[2019.09.04-09.24.45:810][ 13]LogTexture: Display: Building textures: metal_bumpy_squares_roughness (AutoDXT, 2048X2048)
+[2019.09.04-09.25.09:295][189]LogAssetTools: Warning: Failed to import 'D:\3D Model\Library\Substance\Cracked_Ceramic/Cracked_Ceramic.sbs'. Unknown extension 'sbs'.
+[2019.09.04-09.25.09:297][189]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 D:\3D Model\Library\Substance\Cracked_Ceramic/Cracked_Ceramic.sbsar)
+[2019.09.04-09.25.15:846][189]LogSlate: Window 'Substance Import Options' being destroyed
+[2019.09.04-09.25.16:269][189]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.25.21:843][719]LogMaterial: Warning: Material /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT.Cracked_Ceramic_MAT needed to have new flag set bUsedWithStaticLighting !
+[2019.09.04-09.25.21:846][719]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.25.29:481][456]LogSlate: Took 0.015395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.04-09.25.31:851][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.25.32:023][738]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT.Cracked_Ceramic_MAT
+[2019.09.04-09.25.32:096][738]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.25.32:904][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.25.32:910][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.25.32:916][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.25.32:923][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.25.32:985][738]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.25.33:035][738]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.25.33:095][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.25.33:104][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.25.33:111][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.25.33:118][738]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.25.33:223][738]LogSlate: Took 0.047040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.04-09.25.33:800][739]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.25.35:087][784]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.25.36:735][848]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.25.37:199][868]LogSlate: Window 'Cracked_Ceramic_MAT' being destroyed
+[2019.09.04-09.25.37:205][868]LogSlate: Window 'Cracked_Ceramic_MAT' being destroyed
+[2019.09.04-09.25.39:226][ 69]LogAssetEditorManager: Opening Asset editor for SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_roughness.Cracked_Ceramic_INST_roughness
+[2019.09.04-09.25.39:277][ 69]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.04-09.25.45:121][681]LogSlate: Window 'Cracked_Ceramic_INST_roughness' being destroyed
+[2019.09.04-09.25.45:125][681]LogSlate: Window 'Cracked_Ceramic_INST_roughness' being destroyed
+[2019.09.04-09.25.45:734][745]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT.Cracked_Ceramic_MAT
+[2019.09.04-09.25.45:741][745]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.04-09.25.45:843][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.25.45:848][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.25.45:854][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.25.45:860][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.25.45:866][745]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.04-09.25.45:888][745]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.09.04-09.25.45:941][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.25.45:947][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.25.45:954][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.25.45:960][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.25.46:862][776]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.25.48:113][830]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.25.49:691][901]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.25.50:342][931]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: Base pass shader with Surface Lightmap: 203 instructions
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: Base pass vertex shader: 102 instructions
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: Texture samplers: 7/16
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.09.04-09.25.50:343][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.04-09.25.58:119][498]LogSlate: Window 'Message' being destroyed
+[2019.09.04-09.25.58:124][498]LogSlate: Window 'Cracked_Ceramic_MAT' being destroyed
+[2019.09.04-09.25.58:125][498]LogSlate: Window 'Cracked_Ceramic_MAT' being destroyed
+[2019.09.04-09.25.59:684][670]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.Cracked_Ceramic_INST
+[2019.09.04-09.26.08:010][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.09.04-09.26.08:021][457]LogSlate: Window 'Cracked_Ceramic_INST' being destroyed
+[2019.09.04-09.26.08:034][457]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_height.Cracked_Ceramic_INST_height
+[2019.09.04-09.26.10:434][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.09.04-09.26.14:754][954]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.Cracked_Ceramic_INST
+[2019.09.04-09.26.23:196][585]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST1DB7217448F6D9C8E12ACC9428468136.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.uasset'
+[2019.09.04-09.26.28:366][841]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INSTF7CAEC1F44C58CAC7A1325BB0EA55054.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.uasset'
+[2019.09.04-09.26.37:891][445]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST835F85004E29EEC43D5BA79A09A72C4D.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.uasset'
+[2019.09.04-09.26.42:814][747]LogSlate: Window 'Cracked_Ceramic_INST' being destroyed
+[2019.09.04-09.26.42:824][747]LogSlate: Window 'Cracked_Ceramic_INST' being destroyed
+[2019.09.04-09.26.43:883][813]LogAssetEditorManager: Opening Asset editor for SubstanceInstanceFactory /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic.Cracked_Ceramic
+[2019.09.04-09.26.46:896][ 28]LogAssetEditorManager: Opening Asset editor for SubstanceInstanceFactory /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic.Cracked_Ceramic
+[2019.09.04-09.28.17:709][359]LogSlate: Window 'Message' being destroyed
+[2019.09.04-09.28.17:713][359]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 ../../../../../3D Model/Library/Substance/Cracked_Ceramic/Cracked_Ceramic.sbsar)
+[2019.09.04-09.28.22:712][915]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT.Cracked_Ceramic_MAT
+[2019.09.04-09.28.22:715][915]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.28.22:792][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.28.22:797][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.28.22:802][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.28.22:808][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.28.22:815][915]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.28.22:836][915]LogMaterial: Display: Missing cached shader map for material Cracked_Ceramic_MAT, compiling. 
+[2019.09.04-09.28.22:890][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.28.22:898][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.28.22:907][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.28.22:912][915]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.28.24:031][954]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.28.25:244][  5]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.28.26:883][ 70]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.28.27:324][ 87]LogAssetEditorManager: Opening Asset editor for SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_basecolor.Cracked_Ceramic_INST_basecolor
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Base pass shader with Surface Lightmap: 203 instructions
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Base pass vertex shader: 102 instructions
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Texture samplers: 7/16
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.09.04-09.28.27:496][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.04-09.28.29:276][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.04-09.28.47:970][182]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST.Cracked_Ceramic_INST
+[2019.09.04-09.29.04:078][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.29.11:392][721]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.647 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.09.04-09.29.17:899][251]LogSlate: Window 'Message' being destroyed
+[2019.09.04-09.29.17:904][251]LogSlate: Window 'Cracked_Ceramic_MAT' being destroyed
+[2019.09.04-09.29.21:406][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.29.30:091][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.29.35:283][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_Door)
+[2019.09.04-09.29.36:567][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.29.48:527][742]LogMaterial: Warning: Material /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.Bumpy_Squares_MAT needed to have new flag set bUsedWithStaticLighting !
+[2019.09.04-09.29.48:533][742]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.29.58:639][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.29.58:974][832]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.Bumpy_Squares_MAT
+[2019.09.04-09.29.58:980][832]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.29.59:082][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.29.59:088][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.29.59:093][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.29.59:099][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.29.59:105][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.29.59:111][832]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.29.59:133][832]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.29.59:187][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.29.59:195][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.29.59:203][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.29.59:210][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.29.59:217][832]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.29.59:608][839]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.00:223][866]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.01:646][924]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.02:983][983]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.30.07:111][320]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.07:139][320]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.07:152][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.07:157][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.07:163][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.07:169][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.07:175][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.07:691][342]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.09:159][402]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.10:110][443]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.10:151][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.10:161][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.10:170][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.10:178][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.10:186][443]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.10:429][450]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.11:074][478]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.11:763][510]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.11:785][510]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.30.11:797][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.11:804][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.11:811][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.11:818][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.11:828][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.12:023][516]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.12:793][550]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.13:135][567]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.13:166][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.13:174][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.13:182][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.13:189][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.13:197][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.13:261][568]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.13:987][600]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.15:441][660]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.16:383][702]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.16:404][702]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.30.16:414][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.16:421][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.16:429][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.16:436][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.16:445][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.16:677][709]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.17:370][738]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.18:738][796]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.19:096][812]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.19:119][812]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.30.19:127][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.19:134][812]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.19:134][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.19:142][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.19:149][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.19:155][812]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.19:188][812]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.19:325][816]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.30.20:407][862]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.21:150][892]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.21:501][901]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.21:502][901]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.30.21:502][901]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 85
+[2019.09.04-09.30.21:508][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.21:511][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.21:513][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.21:517][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.21:520][901]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.21:554][901]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.21:554][901]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.30.21:554][901]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 85
+[2019.09.04-09.30.21:558][901]MaterialEditorStats: Error: [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 85
+[2019.09.04-09.30.24:304][104]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.24:305][104]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.30.24:305][104]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.30.24:315][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.24:317][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.24:319][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.24:322][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.24:323][104]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.24:352][104]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.24:352][104]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.30.24:352][104]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.30.24:354][104]MaterialEditorStats: Error: [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.30.26:432][252]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.26:433][252]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.30.26:433][252]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.30.26:500][258]LogMaterialEditor: Applying material Bumpy_Squares_MAT
+[2019.09.04-09.30.33:399][258]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2019.09.04-09.30.35:181][403]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.30.35:212][403]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.35:230][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.30.35:236][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.30.35:245][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.30.35:252][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.30.35:259][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.30.35:781][424]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.30.37:337][480]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.30.38:553][500]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.30.38:707][500]LogSlate: Window 'Message' being destroyed
+[2019.09.04-09.30.38:713][500]LogSlate: Window 'Bumpy_Squares_MAT' being destroyed
+[2019.09.04-09.30.38:715][500]LogSlate: Window 'Bumpy_Squares_MAT' being destroyed
+[2019.09.04-09.30.40:460][671]LogAssetEditorManager: Opening Asset editor for SubstanceInstanceFactory /Game/Geometry/Texture/Library/metal_bumpy_squares/metal_bumpy_squares.metal_bumpy_squares
+[2019.09.04-09.30.42:506][901]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST.Bumpy_Squares_INST
+[2019.09.04-09.31.46:540][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.31.51:968][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.09.04-09.31.51:985][307]LogSlate: Window 'Bumpy_Squares_INST' being destroyed
+[2019.09.04-09.31.51:995][307]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_glossiness.Bumpy_Squares_INST_glossiness
+[2019.09.04-09.31.52:240][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.09.04-09.31.54:645][584]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST.Bumpy_Squares_INST
+[2019.09.04-09.32.04:078][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.32.04:229][548]LogAssetEditorManager: Opening Asset editor for SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_diffuse.Bumpy_Squares_INST_diffuse
+[2019.09.04-09.32.07:680][871]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.04-09.32.08:811][871]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.130 s
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: === Handled ensure: ===
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: 
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: Ensure condition failed: PowerOfTwoModePropertyHandle->SetValue(static_cast<uint8>(PowerOfTwoMode)) == FPropertyAccess::Success [File:D:\Build\++UE4\Sync\Engine\Source\Editor\TextureEditor\Private\Customizations\TextureDetailsCustomization.cpp] [Line: 265]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: 
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: Stack: 
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffce0326769 UE4Editor-TextureEditor.dll!<lambda_2c8058b20f6e532c3989427116883a84>::operator()() [d:\build\++ue4\sync\engine\source\editor\textureeditor\private\customizations\texturedetailscustomization.cpp:265]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffce03062cf UE4Editor-TextureEditor.dll!FTextureDetails::OnPowerOfTwoModeChanged() [d:\build\++ue4\sync\engine\source\editor\textureeditor\private\customizations\texturedetailscustomization.cpp:265]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffce02f5b04 UE4Editor-TextureEditor.dll!TBaseSPMethodDelegateInstance<0,FTextureDetails,0,void __cdecl(TSharedPtr<FString,0>,enum ESelectInfo::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89be5ba UE4Editor-Slate.dll!TBaseDelegate<void,TSharedPtr<FString,0>,enum ESelectInfo::Type>::ExecuteIfBound() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:648]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89eb20d UE4Editor-Slate.dll!STextComboBox::OnSelectionChanged() [d:\build\++ue4\sync\engine\source\runtime\slate\private\widgets\input\stextcombobox.cpp:70]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89bfa44 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,STextComboBox,0,void __cdecl(TSharedPtr<FString,0>,enum ESelectInfo::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89be5ba UE4Editor-Slate.dll!TBaseDelegate<void,TSharedPtr<FString,0>,enum ESelectInfo::Type>::ExecuteIfBound() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:648]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89eb406 UE4Editor-Slate.dll!SComboBox<TSharedPtr<FString,0> >::OnSelectionChanged_Internal() [d:\build\++ue4\sync\engine\source\runtime\slate\public\widgets\input\scombobox.h:456]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89bea24 UE4Editor-Slate.dll!TBaseSPMethodDelegateInstance<0,SComboBox<TSharedPtr<FString,0> >,0,void __cdecl(TSharedPtr<FString,0>,enum ESelectInfo::Type)>::ExecuteIfSafe() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:355]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89be5ba UE4Editor-Slate.dll!TBaseDelegate<void,TSharedPtr<FString,0>,enum ESelectInfo::Type>::ExecuteIfBound() [d:\build\++ue4\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:648]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89ee855 UE4Editor-Slate.dll!SListView<TSharedPtr<FString,0> >::Private_SignalSelectionChanged() [d:\build\++ue4\sync\engine\source\runtime\slate\public\widgets\views\slistview.h:730]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd89e0fff UE4Editor-Slate.dll!STableRow<TSharedPtr<FString,0> >::OnMouseButtonUp() [d:\build\++ue4\sync\engine\source\runtime\slate\public\widgets\views\stablerow.h:489]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd87a4021 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_6c1f6b862bcfb82ea6dcab28fbcc9463> >() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:271]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd8820301 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5598]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd880aaca UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6203]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffcd8800414 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6176]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd032ab8e0 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1842]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd0329ef9f UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2292]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd032ad77f UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1522]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd0329c090 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:772]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd1b086d41 USER32.dll!UnknownFunction []
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd1b086713 USER32.dll!UnknownFunction []
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd032ae946 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:130]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ff736c45d3e UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3882]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ff736c5554c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:168]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ff736c555ca UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:145]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ff736c6316c UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:275]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ff736c65b8e UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd1a404034 KERNEL32.DLL!UnknownFunction []
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: [Callstack] 0x00007ffd1cec3691 ntdll.dll!UnknownFunction []
+[2019.09.04-09.32.08:811][871]LogOutputDevice: Error: 
+[2019.09.04-09.32.08:816][871]LogStats:                SubmitErrorReport -  0.000 s
+[2019.09.04-09.32.15:778][871]LogStats:                    SendNewReport -  6.962 s
+[2019.09.04-09.32.15:778][871]LogStats:             FDebug::EnsureFailed -  8.097 s
+[2019.09.04-09.32.27:458][993]LogSlate: Window 'Bumpy_Squares_INST' being destroyed
+[2019.09.04-09.32.30:059][271]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST.Bumpy_Squares_INST
+[2019.09.04-09.32.32:067][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.04-09.32.32:068][418]LogSlate: Window 'Bumpy_Squares_INST' being destroyed
+[2019.09.04-09.32.32:075][418]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_diffuse.Bumpy_Squares_INST_diffuse
+[2019.09.04-09.32.32:254][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.04-09.32.39:368][991]LogAssetEditorManager: Opening Asset editor for Material /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.Bumpy_Squares_MAT
+[2019.09.04-09.32.39:371][991]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.39:458][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.39:463][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.39:468][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.39:473][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.39:479][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.39:487][991]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.39:506][991]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.39:562][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.39:568][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.39:573][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.39:581][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.39:587][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.40:041][  3]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.32.40:704][ 28]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.42:144][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.32.43:614][149]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Base pass shader with Surface Lightmap: 207 instructions
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 253 instructions
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Base pass vertex shader: 102 instructions
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.32.44:074][166]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.09.04-09.32.48:158][487]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.48:189][487]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.48:204][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.48:210][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.48:216][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.48:223][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.48:230][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.48:236][487]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.09.04-09.32.48:758][507]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.50:152][560]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.50:175][560]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.32.50:209][560]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.50:209][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.50:216][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.50:224][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.50:231][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.50:238][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.50:936][588]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.52:269][646]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.32.53:227][686]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.53:281][686]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.53:289][686]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.53:298][686]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.53:309][686]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.53:319][686]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.53:462][690]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.32.54:058][716]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.55:405][773]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.55:436][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.55:444][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.55:452][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.55:458][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.55:467][773]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.56:301][804]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.32.57:744][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.32.59:197][921]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.32.59:338][927]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.32.59:370][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.32.59:378][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.32.59:387][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.32.59:394][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.32.59:401][927]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.32.59:419][927]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.33.00:137][955]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.01:472][ 11]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.33.02:970][ 73]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.33.04:439][144]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.04:457][144]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.04:457][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.04:463][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.04:468][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.04:473][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.04:479][144]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.05:052][167]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.06:398][222]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.06:421][222]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.33.06:433][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.06:440][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.06:448][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.06:457][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.06:464][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.06:481][222]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.33.07:333][255]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.08:666][311]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.08:697][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.08:704][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.08:710][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.08:718][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.08:725][311]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.09:525][342]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.10:961][399]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.33.12:467][458]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.33.12:878][475]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.12:914][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.12:922][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.12:929][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.12:936][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.12:945][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.12:978][475]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.12:999][475]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.33.13:961][513]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.14:218][522]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.15:043][557]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.33.16:442][614]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Base pass shader with Surface Lightmap: 207 instructions
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 253 instructions
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Base pass vertex shader: 116 instructions
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.33.18:364][695]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2019.09.04-09.33.20:046][824]LogMaterialEditor: Saving and Compiling material Bumpy_Squares_MAT
+[2019.09.04-09.33.21:680][824]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.21:747][824]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.21:928][824]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.21:956][824]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.22:002][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.09.04-09.33.22:038][824]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.04-09.33.24:909][824]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.04-09.33.24:909][824]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.33.24:911][824]TextureStreamingBuild: Display: Compiling optional shaders took 2.899 seconds.
+[2019.09.04-09.33.24:957][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.09.04-09.33.28:354][824]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_MATA12C2449461265D169B272A5DF6FA991.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.uasset'
+[2019.09.04-09.33.35:171][387]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.35:190][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.35:198][387]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.35:198][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.35:204][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.35:210][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.35:216][387]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.35:247][387]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.35:494][397]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.33.36:588][442]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.37:409][474]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.33.37:545][480]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.37:564][480]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.37:588][481]LogMaterialEditor: Saving and Compiling material Bumpy_Squares_MAT
+[2019.09.04-09.33.38:116][481]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.38:193][481]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.33.38:217][481]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.38:246][481]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.38:290][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.09.04-09.33.38:300][481]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.04-09.33.41:093][481]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.04-09.33.41:093][481]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.04-09.33.41:093][481]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.33.41:095][481]TextureStreamingBuild: Display: Compiling optional shaders took 2.805 seconds.
+[2019.09.04-09.33.41:125][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.04-09.33.44:743][481]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_MATC35E605C401973ABCC8548B40A98286B.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.uasset'
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Base pass shader with Surface Lightmap: 207 instructions
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 253 instructions
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.33.44:757][481]MaterialEditorStats: User interpolators: 8/8 Scalars (2/4 Vectors) (TexCoords: 8, Custom: 0)
+[2019.09.04-09.33.54:454][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.33.55:614][402]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.55:614][402]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.55:614][402]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.55:620][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.33.55:622][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.33.55:625][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.33.55:627][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.33.55:629][402]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.33.55:654][402]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.55:655][402]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.55:655][402]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.55:656][402]MaterialEditorStats: Error: [SM5] (Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.56:910][500]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.56:910][500]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.56:911][500]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.56:985][507]LogMaterialEditor: Saving and Compiling material Bumpy_Squares_MAT
+[2019.09.04-09.33.59:378][507]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2019.09.04-09.33.59:714][507]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.59:715][507]LogMaterial: Warning: /Engine/Transient.Bumpy_Squares_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.59:715][507]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.59:734][507]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.59:734][507]LogMaterial: Warning: D:\Github\InfectioAr\InfectioVR_UE4\Infectio_VR\Content\Geometry\Texture\Library\metal_bumpy_squares\Bumpy_Squares_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.59:734][507]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.59:737][507]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.33.59:737][507]LogMaterial: Warning: D:\Github\InfectioAr\InfectioVR_UE4\Infectio_VR\Content\Geometry\Texture\Library\metal_bumpy_squares\Bumpy_Squares_MAT.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.09.04-09.33.59:737][507]LogMaterial: 	(Node TextureCoordinate) Only 8 texture coordinate sets can be used by this feature level, currently using 11
+[2019.09.04-09.33.59:758][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.04-09.33.59:766][507]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.04-09.33.59:766][507]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2019.09.04-09.33.59:785][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.09.04-09.33.59:826][507]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_MAT682F3EE14C35E00DD88421939F334545.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.uasset'
+[2019.09.04-09.34.08:427][225]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.08:490][225]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.08:494][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.34.08:500][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.34.08:506][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.34.08:511][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.34.08:516][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.34.08:549][225]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.08:957][244]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.34.10:108][288]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.10:917][324]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.34.12:500][388]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.34.13:088][411]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.13:165][413]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.13:980][445]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.34.15:465][507]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Base pass shader: 175 instructions
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Base pass shader with Surface Lightmap: 207 instructions
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 253 instructions
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Base pass vertex shader: 116 instructions
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.34.17:302][588]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2019.09.04-09.34.20:818][880]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.20:836][880]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.20:836][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.34.20:842][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.34.20:847][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.34.20:852][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.34.20:858][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.34.20:890][880]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.21:128][889]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.34.22:168][933]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.22:722][955]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.22:748][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.34.22:753][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.34.22:759][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.34.22:766][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.34.22:773][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.34.22:802][955]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.34.22:806][955]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.22:827][955]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.34.23:434][978]LogMaterialEditor: Saving and Compiling material Bumpy_Squares_MAT
+[2019.09.04-09.34.23:922][978]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.34.23:943][978]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.24:044][978]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.24:071][978]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.34.24:117][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.04-09.34.24:128][978]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.04-09.34.27:163][978]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.09.04-09.34.27:163][978]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.09.04-09.34.27:163][978]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.34.27:165][978]TextureStreamingBuild: Display: Compiling optional shaders took 3.048 seconds.
+[2019.09.04-09.34.27:197][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.04-09.34.30:569][978]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_MAT4E82C47F4D60CCC108AB2AAF20EEDDA2.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Content/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_MAT.uasset'
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Base pass shader: 176 instructions
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Base pass shader with Surface Lightmap: 208 instructions
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 254 instructions
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Base pass vertex shader: 116 instructions
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.34.30:583][978]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2019.09.04-09.34.44:317][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.34.49:989][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_Door)
+[2019.09.04-09.35.07:425][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.35.40:995][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.04-09.35.41:054][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.09.04-09.35.41:633][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/StartupMap_Auto1717C072E4D41AF7F8C0BA6BB63DE8113.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2019.09.04-09.35.41:647][729]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.613
+[2019.09.04-09.35.41:647][729]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.613
+[2019.09.04-09.35.41:649][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/metal_bumpy_squares] ([1] browsable assets)...
+[2019.09.04-09.35.41:649][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/metal_bumpy_squares]
+[2019.09.04-09.35.41:656][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/metal_bumpy_squares_Auto18041B8234336192F41FCA1B9B1B074AD.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/metal_bumpy_squares_Auto1.uasset'
+[2019.09.04-09.35.41:657][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST] ([1] browsable assets)...
+[2019.09.04-09.35.41:657][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST]
+[2019.09.04-09.35.41:662][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_Auto1538C323D44182998982D50987AA0DE74.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_Auto1.uasset'
+[2019.09.04-09.35.41:662][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_basecolor] ([1] browsable assets)...
+[2019.09.04-09.35.41:669][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_basecolor.Bumpy_Squares_INST_basecolor]
+[2019.09.04-09.35.41:669][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_basecolor]
+[2019.09.04-09.35.42:075][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_basecolor_AutB03293494112945F385655B6252DC07D.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_basecolor_Auto1.uasset'
+[2019.09.04-09.35.42:075][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_normal] ([1] browsable assets)...
+[2019.09.04-09.35.42:081][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_normal.Bumpy_Squares_INST_normal]
+[2019.09.04-09.35.42:081][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_normal]
+[2019.09.04-09.35.42:111][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_normal_Auto1D98C016F4E943FBC170200B5D87BFF86.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_normal_Auto1.uasset'
+[2019.09.04-09.35.42:112][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_specular] ([1] browsable assets)...
+[2019.09.04-09.35.42:118][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_specular.Bumpy_Squares_INST_specular]
+[2019.09.04-09.35.42:118][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_specular]
+[2019.09.04-09.35.42:207][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_specular_AutoD992E1864203E75E45690889305E34B1.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_specular_Auto1.uasset'
+[2019.09.04-09.35.42:208][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_roughness] ([1] browsable assets)...
+[2019.09.04-09.35.42:214][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_roughness.Bumpy_Squares_INST_roughness]
+[2019.09.04-09.35.42:214][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_roughness]
+[2019.09.04-09.35.42:235][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_roughness_AutD767A27F47CFB3DE9323DF9EF5B0A180.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_roughness_Auto1.uasset'
+[2019.09.04-09.35.42:235][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_metallic] ([1] browsable assets)...
+[2019.09.04-09.35.42:242][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_metallic.Bumpy_Squares_INST_metallic]
+[2019.09.04-09.35.42:242][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_metallic]
+[2019.09.04-09.35.42:258][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_metallic_Auto7B8E89C84768051A715CCEBD427DDBCB.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_metallic_Auto1.uasset'
+[2019.09.04-09.35.42:258][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_ambient_occlusion] ([1] browsable assets)...
+[2019.09.04-09.35.42:265][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_ambient_occlusion.Bumpy_Squares_INST_ambient_occlusion]
+[2019.09.04-09.35.42:265][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_ambient_occlusion]
+[2019.09.04-09.35.42:445][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Bumpy_Squares_INST_ambient_occlu958FE829430BE5B0902D7E952B3D3E2B.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/Bumpy_Squares_INST_ambient_occlusion_Auto1.uasset'
+[2019.09.04-09.35.42:446][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_basecolor] ([1] browsable assets)...
+[2019.09.04-09.35.42:453][729]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_basecolor.metal_bumpy_squares_basecolor]
+[2019.09.04-09.35.42:453][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_basecolor]
+[2019.09.04-09.35.42:473][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/metal_bumpy_squares_basecolor_Au10CC382547574358DFE9BE8DB450CDB8.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_basecolor_Auto1.uasset'
+[2019.09.04-09.35.42:473][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_height] ([1] browsable assets)...
+[2019.09.04-09.35.42:477][729]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_height.metal_bumpy_squares_height]
+[2019.09.04-09.35.42:477][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_height]
+[2019.09.04-09.35.42:488][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/metal_bumpy_squares_height_Auto10E99CA214154C789AE453F825335DE7F.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_height_Auto1.uasset'
+[2019.09.04-09.35.42:488][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_roughness] ([1] browsable assets)...
+[2019.09.04-09.35.42:495][729]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_roughness.metal_bumpy_squares_roughness]
+[2019.09.04-09.35.42:495][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_roughness]
+[2019.09.04-09.35.42:507][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/metal_bumpy_squares_roughness_Au74676E8E464A350CEA1AD390826AD7B3.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/metal_bumpy_squares/resources/metal_bumpy_squares_roughness_Auto1.uasset'
+[2019.09.04-09.35.42:524][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic] ([1] browsable assets)...
+[2019.09.04-09.35.42:524][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic]
+[2019.09.04-09.35.42:529][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_Auto186EC1501459C420BC099E6ABAEC4EA29.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_Auto1.uasset'
+[2019.09.04-09.35.42:530][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST] ([1] browsable assets)...
+[2019.09.04-09.35.42:530][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST]
+[2019.09.04-09.35.42:551][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST_Auto1AE8F087A44DC0E22EDDCFEAC9C780120.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_Auto1.uasset'
+[2019.09.04-09.35.42:552][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_basecolor] ([1] browsable assets)...
+[2019.09.04-09.35.42:558][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_basecolor.Cracked_Ceramic_INST_basecolor]
+[2019.09.04-09.35.42:558][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_basecolor]
+[2019.09.04-09.35.42:572][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST_basecolor_A5609F74B44D136EF28B28BA858E04317.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_basecolor_Auto1.uasset'
+[2019.09.04-09.35.42:573][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_normal] ([1] browsable assets)...
+[2019.09.04-09.35.42:578][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_normal.Cracked_Ceramic_INST_normal]
+[2019.09.04-09.35.42:578][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_normal]
+[2019.09.04-09.35.42:596][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST_normal_AutoA011209C421E38715ED5219E8CC9136D.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_normal_Auto1.uasset'
+[2019.09.04-09.35.42:596][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_roughness] ([1] browsable assets)...
+[2019.09.04-09.35.42:603][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_roughness.Cracked_Ceramic_INST_roughness]
+[2019.09.04-09.35.42:603][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_roughness]
+[2019.09.04-09.35.42:622][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST_roughness_A729178494D9186322B79F9927015E638.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_roughness_Auto1.uasset'
+[2019.09.04-09.35.42:623][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_metallic] ([1] browsable assets)...
+[2019.09.04-09.35.42:628][729]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_metallic.Cracked_Ceramic_INST_metallic]
+[2019.09.04-09.35.42:628][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_metallic]
+[2019.09.04-09.35.44:167][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_INST_metallic_Au3B0A371046E1ED6F824821B178B6186F.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_INST_metallic_Auto1.uasset'
+[2019.09.04-09.35.44:168][729]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT] ([1] browsable assets)...
+[2019.09.04-09.35.44:177][729]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT.Cracked_Ceramic_MAT]
+[2019.09.04-09.35.44:177][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT]
+[2019.09.04-09.35.44:267][729]LogSavePackage: Moving '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Cracked_Ceramic_MAT_Auto15BDA8DE34569C86BED13B690993A1A73.tmp' to '../../../../../Github/InfectioAr/InfectioVR_UE4/Infectio_VR/Saved/Autosaves/Game/Geometry/Texture/Library/Cracked_Ceramic/Cracked_Ceramic_MAT_Auto1.uasset'
+[2019.09.04-09.35.44:268][729]LogFileHelpers: Auto-saving content packages took 2.620
+[2019.09.04-09.40.10:051][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toilet_Door)
+[2019.09.04-09.40.14:138][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.42.30:479][205]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.42.30:498][205]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.42.30:501][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.09.04-09.42.30:507][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.09.04-09.42.30:513][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.09.04-09.42.30:519][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.09.04-09.42.30:524][205]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2019.09.04-09.42.30:558][205]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.42.30:965][225]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.09.04-09.42.32:100][271]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.42.32:768][297]LogMaterial: Display: Missing cached shader map for material Bumpy_Squares_MAT, compiling. 
+[2019.09.04-09.42.32:827][299]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.04-09.42.33:456][329]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.04-09.42.34:828][391]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.04-09.42.36:572][469]MaterialEditorStats: Base pass shader: 176 instructions
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: Base pass shader with Surface Lightmap: 208 instructions
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 254 instructions
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: Texture samplers: 8/16
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
+[2019.09.04-09.42.36:573][469]MaterialEditorStats: User interpolators: 10/12 Scalars (3/4 Vectors) (TexCoords: 10, Custom: 0)
+[2019.09.04-09.43.24:636][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.49.46:628][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.04-09.49.53:822][790]LogEditorFactories: Performing atomic reimport of [D:/3D Model/Infectio Search & Destroy VR/Level 1 - Omen's house/Toilet Wall/ToiletDoor/Toilet_Door.fbx]
+[2019.09.04-09.49.53:957][790]LogFbx: Loading FBX Scene from D:/3D Model/Infectio Search & Destroy VR/Level 1 - Omen's house/Toilet Wall/ToiletDoor/Toilet_Door.fbx
+[2019.09.04-09.50.16:750][790]LogFbx: FBX Scene Loaded Succesfully
